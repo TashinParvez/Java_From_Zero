@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d463cd9b-ea74-423f-adbf-d7b06bc00874" name="Changes" comment="sababb vai assignment Q1 done">
+      <change afterPath="$PROJECT_DIR$/src/ELSE/BD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ELSE/tas.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tonni_assignment_1/Q_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tonni_assignment_1/Q_02/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672377665961</updated>
       <workItem from="1672377667947" duration="4230000" />
-      <workItem from="1672398246290" duration="2823000" />
+      <workItem from="1672398246290" duration="4477000" />
     </task>
     <task id="LOCAL-00001" summary="assignment_2 Done">
       <created>1672380677794</created>
@@ -79,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672401296061</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sababb vai assignment Q1 done">
+      <created>1672402256837</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672402256837</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
