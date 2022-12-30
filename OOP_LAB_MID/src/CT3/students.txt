@@ -1,0 +1,10 @@
+Albert Einstein
+3.89
+Isaac Newton
+3.60
+Marie Curie
+3.75
+Nicola Tesla
+3.50
+Michael Faraday
+4.00
