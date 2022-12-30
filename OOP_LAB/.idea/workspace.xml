@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d463cd9b-ea74-423f-adbf-d7b06bc00874" name="Changes" comment="assignment_1 half Done">
-      <change afterPath="$PROJECT_DIR$/src/ShababVai_Assignment/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShababVai_Assignment/BigDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShababVai_Assignment/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShababVai_Assignment/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d463cd9b-ea74-423f-adbf-d7b06bc00874" name="Changes" comment="sababb vai assignment Q1 done">
+      <change afterPath="$PROJECT_DIR$/src/Tonni_assignment_1/Q_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tonni_assignment_1/Q_02/Bishop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672377665961</updated>
       <workItem from="1672377667947" duration="4230000" />
-      <workItem from="1672398246290" duration="963000" />
+      <workItem from="1672398246290" duration="1900000" />
     </task>
     <task id="LOCAL-00001" summary="assignment_2 Done">
       <created>1672380677794</created>
@@ -68,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672381812547</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sababb vai assignment Q1 done">
+      <created>1672399327670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672399327670</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +93,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="assignment_2 Done" />
     <MESSAGE value="assignment_1 half Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment_1 half Done" />
+    <MESSAGE value="sababb vai assignment Q1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="sababb vai assignment Q1 done" />
   </component>
 </project>
