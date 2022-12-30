@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d463cd9b-ea74-423f-adbf-d7b06bc00874" name="Changes" comment="assignment_2 Done">
-      <change afterPath="$PROJECT_DIR$/src/Tonni_assignment_1/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tonni_assignment_1/InsufficientBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tonni_assignment_1/InvalidAmountArgument.java" afterDir="false" />
+    <list default="true" id="d463cd9b-ea74-423f-adbf-d7b06bc00874" name="Changes" comment="assignment_1 half Done">
+      <change afterPath="$PROJECT_DIR$/src/ShababVai_Assignment/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShababVai_Assignment/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShababVai_Assignment/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShababVai_Assignment/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,7 +51,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672377665961</updated>
-      <workItem from="1672377667947" duration="3363000" />
+      <workItem from="1672377667947" duration="4230000" />
+      <workItem from="1672398246290" duration="963000" />
     </task>
     <task id="LOCAL-00001" summary="assignment_2 Done">
       <created>1672380677794</created>
@@ -58,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672380677794</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="assignment_1 half Done">
+      <created>1672381812547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672381812547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="assignment_2 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment_2 Done" />
+    <MESSAGE value="assignment_1 half Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment_1 half Done" />
   </component>
 </project>
