@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d463cd9b-ea74-423f-adbf-d7b06bc00874" name="Changes" comment="sababb vai assignment Q1 done">
-      <change afterPath="$PROJECT_DIR$/src/ELSE/BD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ELSE/tas.txt" afterDir="false" />
+    <list default="true" id="d463cd9b-ea74-423f-adbf-d7b06bc00874" name="Changes" comment="else">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/Tonni_assignment_2/Q_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_LAB/Tonni_assignment_2/Q_02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1672377665961</updated>
       <workItem from="1672377667947" duration="4230000" />
-      <workItem from="1672398246290" duration="4477000" />
+      <workItem from="1672398246290" duration="5431000" />
+      <workItem from="1672509030879" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="assignment_2 Done">
       <created>1672380677794</created>
@@ -87,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672402256837</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="else">
+      <created>1672410171578</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672410171578</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +117,7 @@
     <MESSAGE value="assignment_2 Done" />
     <MESSAGE value="assignment_1 half Done" />
     <MESSAGE value="sababb vai assignment Q1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="sababb vai assignment Q1 done" />
+    <MESSAGE value="else" />
+    <option name="LAST_COMMIT_MESSAGE" value="else" />
   </component>
 </project>
