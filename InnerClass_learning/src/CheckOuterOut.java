@@ -7,8 +7,6 @@ public class CheckOuterOut {
         oi.y = 10;
         oi.display(); // inner display
 
-
-
     }
 }
 
