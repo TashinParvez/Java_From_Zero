@@ -1,19 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d463cd9b-ea74-423f-adbf-d7b06bc00874" name="Changes" comment="else">
+    <list default="true" id="d463cd9b-ea74-423f-adbf-d7b06bc00874" name="Changes" comment="Q1 Solved">
+      <change afterPath="$PROJECT_DIR$/src/FInal/Q_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FInal/Q_02/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FInal/Q_02/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FInal/Q_03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FInal/Q_03/src/main/java/com/mycompany/q_03/Q3.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FInal/Q_03/src/main/java/com/mycompany/q_03/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FInal/Q_03/src/main/java/com/mycompany/q_03/SecondPage.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FInal/Q_03/src/main/java/com/mycompany/q_03/SecondPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FInal/Q_03_B/IllegalParaneterExcepetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FInal/Q_03_B/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/Tonni_assignment_2/Q_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_LAB/Tonni_assignment_2/Q_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q1/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q1/CookieMonster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q1/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q1/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q1/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q1/ScaryMonster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q_01/CookieMonster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q_01/CookieMonster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q_01/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q_01/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/asds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FInal/Q_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FInal/Q_01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FInal/asds.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,9 +61,86 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="FInal.Q_02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FInal.Q_02.Main" />
+      <module name="OOP_LAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FInal.Q_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FInal.Q_03_B.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FInal.Q_03_B.Main" />
+      <module name="OOP_LAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FInal.Q_03_B.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FInal.Q_01.Main" />
+      <module name="OOP_LAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FInal.Q_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FInal.Limon_Q1.MainClass" />
+      <module name="OOP_LAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FInal.Limon_Q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.q_03.Q3" />
+      <module name="OOP_LAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.q_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.FInal.Q_02.Main" />
+        <item itemvalue="Application.FInal.Q_03_B.Main" />
+        <item itemvalue="Application.Q3" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,6 +152,7 @@
       <workItem from="1672377667947" duration="4230000" />
       <workItem from="1672398246290" duration="5431000" />
       <workItem from="1672509030879" duration="51000" />
+      <workItem from="1672735737328" duration="8206000" />
     </task>
     <task id="LOCAL-00001" summary="assignment_2 Done">
       <created>1672380677794</created>
@@ -95,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672410171578</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Q1 Solved">
+      <created>1672739436327</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672739436327</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +226,11 @@
     <MESSAGE value="assignment_1 half Done" />
     <MESSAGE value="sababb vai assignment Q1 done" />
     <MESSAGE value="else" />
-    <option name="LAST_COMMIT_MESSAGE" value="else" />
+    <MESSAGE value="Q1 Solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q1 Solved" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
