@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Remove_Duplicate_Elements_From_ArrayList {
     static Scanner sc = new Scanner(System.in);
 
+
     public static void main(String[] args) {
         System.out.println("Enter 10 integers");
         ArrayList<Integer> list = new ArrayList<>();
@@ -15,6 +16,7 @@ public class Remove_Duplicate_Elements_From_ArrayList {
         }
         System.out.println(list);
         Collections.sort(list);
+
 
         for (int ii = 0; ii < list.size(); ii++) {
             if (ii + 1 < list.size()) {

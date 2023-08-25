@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="750.0" prefWidth="1010.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.admindashboard.EarningController">
+   <children>
+      <AnchorPane layoutX="5.0" layoutY="7.0" prefHeight="287.0" prefWidth="394.0" styleClass="app_users_data_field" stylesheets="@CSS.css">
+         <children>
+            <Label layoutX="129.0" layoutY="208.0" text="Total Earn" textFill="WHITE">
+               <font>
+                  <Font name="Bell MT" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="150.0" layoutY="107.0" text="60000" textFill="#f7f7f7">
+               <font>
+                  <Font size="35.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="405.0" layoutY="7.0" prefHeight="287.0" prefWidth="598.0" styleClass="app_users_data_field" stylesheets="@CSS.css">
+         <children>
+            <Label layoutX="20.0" layoutY="14.0" prefHeight="26.0" prefWidth="254.0" text="Graph of Earnings In this Year" textFill="#efefef">
+               <font>
+                  <Font name="System Bold" size="17.0" />
+               </font>
+            </Label>
+            <LineChart layoutX="43.0" layoutY="60.0" prefHeight="206.0" prefWidth="486.0">
+              <xAxis>
+                <CategoryAxis side="BOTTOM" />
+              </xAxis>
+              <yAxis>
+                <NumberAxis side="LEFT" />
+              </yAxis>
+            </LineChart>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="5.0" layoutY="300.0" prefHeight="446.0" prefWidth="998.0" styleClass="weather_bg" stylesheets="@CSS.css">
+         <children>
+            <Label layoutX="14.0" layoutY="20.0" prefHeight="35.0" prefWidth="137.0" text="Trips Enrolled">
+               <font>
+                  <Font name="Arial Black" size="16.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

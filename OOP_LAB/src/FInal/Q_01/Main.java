@@ -6,6 +6,7 @@ public class Main {
         Human human1 = new Human("Jon", 70, "medium", "brave");
         Human human2 = new Human("Sam", 100, "high", "not brave");
 
+
         CookieMonster coo = new CookieMonster(100);
         coo.scare(human1);
         coo.scare(human2);

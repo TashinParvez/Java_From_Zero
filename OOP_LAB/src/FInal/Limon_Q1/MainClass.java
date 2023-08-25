@@ -37,7 +37,7 @@ class Human implements Animal {
 
     @Override
     public boolean isIntelligent() {
-        if (intelligence.equals("high")) {
+        if (intelligence == "high") {
             intelligenceXX = true;
         } else {
             intelligenceXX = false;
@@ -47,14 +47,20 @@ class Human implements Animal {
 
     @Override
     public int expectedHeight() {
+
         return weight / 2;
     }
 }
 
-interface Animal { // tashin
+interface Animal {
 
-     boolean isIntelligent();
-    int expectedHeight();
+    public default boolean isIntelligent() {
+        return false;
+    }
+
+    public default int expectedHeight() {
+        return 0;
+    }
 }
 
 class CookieMonster extends Monster {

@@ -6,16 +6,12 @@ public class Player {
     int age;
     String name;
 
-    public Player() {
-    }
-
     public Player(int jearsy_number, double Salary, int age, String name) {
         this.jearsy_number = jearsy_number;
         this.Salary = Salary;
         this.age = age;
         this.name = name;
     }
-
 
 
 }

@@ -1,0 +1,21 @@
+.side_Menu {
+    -fx-background-color: #191f31;
+}
+
+.menu-bar-items {
+    -fx-font-family: 'Arial Rounded MT Bold';
+    -fx-font-size: 13px;
+}
+.weather_bg {
+    -fx-background-color: #c2cef3;
+    -fx-background-radius: 10;
+}
+.app_users_data_field{
+    -fx-background-color: #4e4364;
+    -fx-background-radius: 10;
+}
+
+.graphs_data_field{
+    -fx-background-color: rgba(78, 67, 100, 1);
+    -fx-background-radius: 12;
+}

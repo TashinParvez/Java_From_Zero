@@ -17,7 +17,7 @@ public class CookieMonster extends Monster {
 
     @Override
     void eat() {
-        this.weight++;
+
     }
 
     @Override

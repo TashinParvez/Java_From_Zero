@@ -4,6 +4,7 @@ import java.util.Collections;
 public class Main {
     public static void main(String[] args) {
         ArrayList<Integer> al = new ArrayList<>();
+
         // add elements
         al.add(11);
         al.add(12);
@@ -17,6 +18,7 @@ public class Main {
 
         // add element between
         al.add(1, 100);
+
         System.out.println(al);
 
         // set element
@@ -41,9 +43,6 @@ public class Main {
 
 
 //        Collections.sort(list, Collections.reverseOrder());
-
-
-
 
 
     }
