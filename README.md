@@ -1,5 +1,5 @@
 # Java_From_Zero
-"JAVA_Zero_to_aClass" is your one-stop destination for all things Java. This repository compiles my Java learning journey, practice code, real-world applications, and university course problem solutions.
+"Java_From_Zero" is your one-stop destination for all things Java. This repository compiles my Java learning journey, practice code, real-world applications, and university course problem solutions.
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/TashinParvez/Java_From_Zero)
