@@ -4,7 +4,7 @@ public class Main {
     static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
-
+        double cgpa=0.0;
         System.out.print("How many course You have : ");
         int totalCourses = scan.nextInt();
 
@@ -15,9 +15,13 @@ public class Main {
             courses[i] = new CourseDexcrioption(scan.nextInt(), scan.nextDouble());
         }
 
-        double cgpa = calculateCGPA(totalCourses, courses);
-        System.out.println("Your CGPA "+cgpa);
+        cgpa += calculateCGPA(totalCourses, courses);
+        System.out.println("\n\n"+"Your CGPA "+cgpa);
+
+        String[] s = {""};
+        main(s);
     }
+
 
     static double calculateCGPA(int totalCourses, CourseDexcrioption[] courses) {
         int totalCradits = 0;
@@ -29,3 +33,11 @@ public class Main {
         return sumOfCraditandCGPAmulti / totalCradits;
     }
 }
+
+/*
+3 4
+ 3 4
+ 3 4
+ 1 4
+ 3 3.67
+ */

@@ -1,22 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d463cd9b-ea74-423f-adbf-d7b06bc00874" name="Changes" comment="else">
-      <change afterPath="$PROJECT_DIR$/../Learning_ArrayList/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Learning_ArrayList/src/Remove_Duplicate_Elements_From_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Learning_ArrayList/src/STRING_ARRAYLIST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Learning_ArrayList/src/StringArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FInal/Limon_Q1/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FInal/Q_01/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FInal/Q_01/CookieMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FInal/Q_01/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FInal/Q_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FInal/Q_01/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FInal/Q_01/ScaryMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FInal/asds.java" afterDir="false" />
+    <list default="true" id="d463cd9b-ea74-423f-adbf-d7b06bc00874" name="Changes" comment="All solved">
+      <change afterPath="$PROJECT_DIR$/../FX_Learning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FX_Learning/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FX_Learning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FX_Learning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FX_Learning/lib/materialfx-11.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FX_Learning/lib/virtualizedfx-11.2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FX_Learning/src/main/java/com/example/fx_learning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FX_Learning/src/main/java/com/example/fx_learning/Main_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FX_Learning/src/main/resources/com/example/fx_learning/NOW_THIS.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput_IO_Streams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEarning_JAVA_FX/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEarning_JAVA_FX/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEarning_JAVA_FX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEarning_JAVA_FX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEarning_JAVA_FX/src/main/java/com/example/learning_java_fx/GameContolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEarning_JAVA_FX/src/main/java/com/example/learning_java_fx/GameRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEarning_JAVA_FX/src/main/resources/com/example/learning_java_fx/Game.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/Learning_Comperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/src/Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/src/First/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/src/Spring_21/Q_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/src/Spring_21/Q_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/src/Spring_21/Q_3/Code_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/src/Spring_21/Q_4/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/src/Summer_22/Q_1_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/src/comparator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/src/comparator/ageComperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_Comperator/src/comparator/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_GitHub/Learning_GitHub.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_thread_Multiprogramming/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_thread_Multiprogramming/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_thread_Multiprogramming/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_thread_Multiprogramming/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_thread_Multiprogramming/Learning_thread_Multiprogramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_thread_Multiprogramming/src/First_Using_ThreadClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learning_thread_Multiprogramming/src/Second_Implementing_Runable_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MOVE_Circle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MOVE_Circle/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MOVE_Circle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MOVE_Circle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Movie_CIrcle/Movie_CIrcle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/Qs2/Qs2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/Qs2/out/production/Qs2/sectionA/Qs2/Qs2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/OOP_Final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_1/A/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_1/A/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_1/A/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_1/B/Fall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_1/C/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_3/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_3/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_4/GUITEST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/FALL_21/Q_5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/Fall_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/SPRING_22/Q_1_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/SPRING_22/Q_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/SPRING_22/Q_2/id.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Final/src/Summer_2022/Q_1/Q1_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FInal/Limon_Q1/Q_02/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elseMA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_For_Final/out/production/Practice_For_Final/FInal/Q_01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SceneBuilder_add/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SceneBuilder_add/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SceneBuilder_add/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SceneBuilder_add/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SceneBuilder_add/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SceneBuilder_add/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SceneBuilder_add/src/main/java/com/example/scenebuilder_add/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SceneBuilder_add/src/main/java/com/example/scenebuilder_add/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SceneBuilder_add/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SceneBuilder_add/src/main/resources/com/example/scenebuilder_add/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TashinFX/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TashinFX/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TashinFX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TashinFX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RodelaMaamCT4/src/CT4/CT4_practic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RodelaMaamCT4/src/CT4/CT4_practic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RodelaMaamCT4/src/CT4/GradeShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RodelaMaamCT4/src/CT4/GradeShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q_01/CookieMonster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q_01/CookieMonster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q_01/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_LAB/FInal/Q_01/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FInal/Limon_Q1/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FInal/Limon_Q1/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FInal/Q_01/CookieMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FInal/Q_01/CookieMonster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FInal/Q_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FInal/Q_01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FInal/Q_01/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FInal/Q_01/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FInal/Q_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FInal/Q_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FInal/Q_02/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FInal/Q_02/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,16 +141,49 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "editor.preferences.folding"
+    "last_opened_file_path": "D:/AOOP-Project-Wayout",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.updates",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.CT4 (1)">
+    <configuration name="CT4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CT4" />
+      <module name="OOP_LAB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CT4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CT4" />
+      <module name="OOP_LAB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CT4_practic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CT4.CT4_practic" />
       <module name="OOP_LAB" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CT4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FInal.Q_02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FInal.Q_02.Main" />
+      <module name="OOP_LAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FInal.Q_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +206,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CT4 (1)" />
+        <item itemvalue="Application.CT4" />
+        <item itemvalue="Application.FInal.Q_02.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CT4_practic" />
       </list>
@@ -104,6 +226,10 @@
       <workItem from="1672398246290" duration="5431000" />
       <workItem from="1672509030879" duration="51000" />
       <workItem from="1672735737328" duration="3487000" />
+      <workItem from="1672754499749" duration="575000" />
+      <workItem from="1672755320700" duration="2108000" />
+      <workItem from="1673370270989" duration="904000" />
+      <workItem from="1677510117247" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="assignment_2 Done">
       <created>1672380677794</created>
@@ -170,7 +296,8 @@
     <MESSAGE value="assignment_1 half Done" />
     <MESSAGE value="sababb vai assignment Q1 done" />
     <MESSAGE value="else" />
-    <option name="LAST_COMMIT_MESSAGE" value="else" />
+    <MESSAGE value="All solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="All solved" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="476.0" prefWidth="682.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.tashin.GameController">
+   <children>
+      <TextField fx:id="playernameInput" layoutX="24.0" layoutY="21.0" />
+      <Button fx:id="submit" layoutX="184.0" layoutY="21.0" mnemonicParsing="false" onAction="#submitClicked" text="Submit" />
+      <Label layoutX="546.0" layoutY="25.0" text="Attempts left:" />
+      <Label layoutX="217.0" layoutY="158.0" text="Click the button to generate a random number" />
+      <Button fx:id="number" layoutX="315.0" layoutY="187.0" mnemonicParsing="false" onAction="#generateNumberClicked" text="Number" textFill="RED" />
+      <Label fx:id="numberGenerateMessage" layoutX="323.0" layoutY="230.0" />
+      <Circle fill="DODGERBLUE" layoutX="109.0" layoutY="367.0" onMouseClicked="#circle1Clicked" radius="75.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="DODGERBLUE" layoutX="341.0" layoutY="367.0" onMouseClicked="#circle2Clicked" radius="75.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="DODGERBLUE" layoutX="563.0" layoutY="367.0" onMouseClicked="#circle3Clicked" radius="75.0" stroke="BLACK" strokeType="INSIDE" />
+      <Label fx:id="attemptsNumber" layoutX="627.0" layoutY="25.0" />
+   </children>
+</AnchorPane>

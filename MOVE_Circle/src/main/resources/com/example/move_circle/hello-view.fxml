@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.move_circle.HelloController">
+   <children>
+      <Circle fill="DODGERBLUE" layoutX="300.0" layoutY="200.0" radius="100.0" stroke="BLACK" strokeType="INSIDE" />
+      <MFXButton fx:id="Top" layoutX="273.0" layoutY="22.0" onMouseClicked="#moveUp" text="Top" />
+   </children>
+</AnchorPane>
