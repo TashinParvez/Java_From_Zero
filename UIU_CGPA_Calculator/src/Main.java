@@ -33,3 +33,11 @@ public class Main {
         return sumOfCraditandCGPAmulti / totalCradits;
     }
 }
+
+/*
+3 4
+ 3 4
+ 3 4
+ 1 4
+ 3 3.67
+ */
