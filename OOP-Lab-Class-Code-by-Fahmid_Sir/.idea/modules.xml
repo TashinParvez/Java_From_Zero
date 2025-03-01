@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week 2/BasicClass/BasicClass.iml" filepath="$PROJECT_DIR$/Week 2/BasicClass/BasicClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/EvenOdd/EvenOdd.iml" filepath="$PROJECT_DIR$/Week 1/EvenOdd/EvenOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/Hello/Hello.iml" filepath="$PROJECT_DIR$/Week 1/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 2/Netflix/Netflix.iml" filepath="$PROJECT_DIR$/Week 2/Netflix/Netflix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP-Lab-Class-Code-by-Fahmid_Sir.iml" filepath="$PROJECT_DIR$/OOP-Lab-Class-Code-by-Fahmid_Sir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 3/Sum/Sum.iml" filepath="$PROJECT_DIR$/Week 3/Sum/Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1/calculator/calculator.iml" filepath="$PROJECT_DIR$/Week 1/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 2/maxxx/maxxx.iml" filepath="$PROJECT_DIR$/Week 2/maxxx/maxxx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 3/practice/practice.iml" filepath="$PROJECT_DIR$/Week 3/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 5/practice4/practice4.iml" filepath="$PROJECT_DIR$/Week 5/practice4/practice4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 5/practice5/practice5.iml" filepath="$PROJECT_DIR$/Week 5/practice5/practice5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 2/student/student.iml" filepath="$PROJECT_DIR$/Week 2/student/student.iml" />
+    </modules>
+  </component>
+</project>
