@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA Journey.iml" filepath="$PROJECT_DIR$/.idea/JAVA Journey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop_Sec_P__Spring25__Salman Shamil Sir/Practice-Problems/QSN-1/QSN-1.iml" filepath="$PROJECT_DIR$/oop_Sec_P__Spring25__Salman Shamil Sir/Practice-Problems/QSN-1/QSN-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QSN-2/QSN-2.iml" filepath="$PROJECT_DIR$/QSN-2/QSN-2.iml" />
     </modules>
   </component>
 </project>
